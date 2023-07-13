@@ -3,3 +3,15 @@
 <h2> Repositorio sobre curso typescript e como utilizar SOLID
 .
 </h2>
+
+<ul>
+<h2>Start teste</h2>
+<p>configuração:</p>
+ <h3>iniciando </h3>
+<li> npm i jest ts-jest @types/jest  -D
+<li> npx ts-jest config:init (para configurar jest.config.js)
+ <h3>iniciando e comandos: </h3>
+<li> index.test.ts = teste / index.spec.ts = test unitarios
+<h2>Start teste</h2>
+<li> npx jest
+</ul>

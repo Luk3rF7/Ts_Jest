@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-
+    "test":"jest",
+    "test:silent":"npx jest --watchAll --silent --noStackTrace"
   },
   "author": "",
   "license": "ISC",
